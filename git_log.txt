@@ -1,0 +1,45 @@
+commit 346d34f42812300eb976952da0872ff1e5f3b0a3
+Merge: e3b58fc 36de787
+Author: Charles Lopez <charlesynestrian2004@gmail.com>
+Date:   Sat Aug 30 12:58:09 2025 -0700
+
+    Merge index-fix into main: resolve conflict in index.html
+
+commit 36de7879554bd399c3a67d00c881eda7cd8c9bbb
+Author: Charles Lopez <charlesynestrian2004@gmail.com>
+Date:   Sat Aug 30 12:47:35 2025 -0700
+
+    Added my favorite movie/game div on index.fix
+
+commit e3b58fcac4f64d773f5104b63c9eaf738e79c005
+Author: Charles Lopez <charlesynestrian2004@gmail.com>
+Date:   Sat Aug 30 12:41:53 2025 -0700
+
+    Added my favorite food on main
+
+commit c55dc489cfb9484f74bc37676f3513b1da3945c5
+Author: Charles Lopez <charlesynestrian2004@gmail.com>
+Date:   Sat Aug 30 12:33:06 2025 -0700
+
+    Add REAME that describes the repo
+
+commit f8b15bc9609241338c9136b33c83b586ca7f1610
+Merge: 1d2bfc0 5c20750
+Author: Llama <150065016+CharlesLopezE@users.noreply.github.com>
+Date:   Sat Aug 30 12:21:15 2025 -0700
+
+    Merge pull request #1 from CharlesLopezE/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 5c20750ae8f09214f6d922d7a2577ed6fc73bd19
+Author: Charles Lopez <charlesynestrian2004@gmail.com>
+Date:   Sat Aug 30 11:54:34 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
